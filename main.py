@@ -34,4 +34,4 @@ else:
 
     # Print the payment due date and number of days until due
     print("Payment due date:", due_date.strftime("%Y-%m-%d"))
-    print("Days until due:", days_until_due)
+    print("Days until due :", days_until_due)
